@@ -4,6 +4,15 @@
 #     }
 # )
 # print("hello world")
-# function stucture
-def  function_name ():
-    # function body
+# # function stucture
+# def  division ():
+#     # function body
+
+
+
+#  Dry
+# basic function with argument 
+def sum(a,b):
+     print(a+b)
+
+sum(44,44)
